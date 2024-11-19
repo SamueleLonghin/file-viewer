@@ -8,7 +8,7 @@ if (isset($_GET['info'])) {
 
 $blocchi = [
     [
-        'title' => "Esempi del prof Longhin",
+        'title' => "Esempi del professor Longhin",
         'path' => "",
         'class' => 'teoria'
     ]
